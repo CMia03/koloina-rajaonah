@@ -18,14 +18,17 @@ export default function About() {
     >
       <SectionHeading>A propos</SectionHeading>
       <p className="mb-3">
-        Diplômée d’un Master en Finance et Comptabilité, je me passionne pour
-        l'apprentissage continu dans mon domaine. Actuellement, je travaille en
-        tant que comptable chez No Comment, où je mets en pratique mes
-        compétences et approfondis mon expertise. Je maîtrise des outils tels
-        que Sage Koala, Odoo, Excel avancé et Pennylane, et je suis constamment
-        à la recherche de nouveaux défis pour enrichir mes compétences. Par
-        ailleurs, je perfectionne mon anglais et me tiens à jour sur les
-        nouveaux outils en vogue. <br />
+        Titulaire d’un Master en Finance et Comptabilité, je suis animée par une
+        passion pour l’apprentissage continu dans mon domaine. Actuellement
+        comptable au sein de No Comment, j’ai l’opportunité de mettre en
+        pratique mes compétences tout en développant mon expertise. Je possède
+        une solide maîtrise des outils tels que Sage Koala, Odoo, Excel avancé
+        et Pennylane, et je suis toujours en quête de nouveaux défis pour
+        enrichir mes connaissances et perfectionner mes compétences. Par
+        ailleurs, je travaille activement à améliorer mon anglais et reste
+        constamment à l’affût des technologies émergentes et des outils
+        innovants.
+        <br />
         <br />
         {/* <span className="font-medium">full-stack web development</span>.{" "} */}
         Ma polyvalence me permet de m'adapter à plusieurs domaines, notamment la
