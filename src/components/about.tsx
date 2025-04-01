@@ -18,19 +18,24 @@ export default function About() {
     >
       <SectionHeading>A propos</SectionHeading>
       <p className="mb-3">
-        Après avoir obtenu un diplôme de baccalauréat, j'ai décidé de poursuivre
-        ma passion pour la comptabilité et j'ai obtenu un diplôme de Master en
-        Finances et comptabilité. Je me suis inscrite à divers sites pour
-        continuer à apprendre davantage. Je suis également familière avec Sage
-        Koala, Odoo, Excel avancé, Pennylane. Je cherche toujours à apprendre de
-        nouveaux défis. Je suis actuellement à la recherche d'un poste horaire
-        qui correspond à mes compétences. <br />
+        Diplômée d’un Master en Finance et Comptabilité après un baccalauréat,
+        je me passionne pour l'apprentissage continu dans mon domaine.
+        Actuellement, je travaille en tant que comptable chez No Comment, où je
+        mets en pratique mes compétences et approfondis mon expertise. Je
+        maîtrise des outils tels que Sage Koala, Odoo, Excel avancé et
+        Pennylane, et je suis constamment à la recherche de nouveaux défis pour
+        enrichir mes compétences. Par ailleurs, je perfectionne mon anglais et
+        mets à jour sur les nouveaux outils en vogue <br />
+        <br />
         {/* <span className="font-medium">full-stack web development</span>.{" "} */}
-        En dehors de la Comptabilité et de la finance, J'aime les sports
-        extrèmes, faire des randonnées J'aime aussi apprendre de nouvelles
-        choses, ce qui me permettent toujours d'être polyvalente dans mes
-        réalisations. Je rafraîchis mes connaissances sur le PCG 2005. Et je
-        travaille à perfectionner mon anglais
+        Ma polyvalence me permet de m'adapter à plusieurs domaines, notamment la
+        relation clientèle, le BTP, l'administration et le design. En dehors de
+        la comptabilité et de la finance, je suis adepte de sports extrêmes, de
+        randonnées et de nouvelles découvertes, ce qui me permet de développer
+        créativité et polyvalence dans mes réalisations. Je suis à la recherche
+        d’un poste aligné à mes compétences, où je pourrais continuer à évoluer
+        et contribuer efficacement.
+        <br />
       </p>
     </motion.section>
   );
