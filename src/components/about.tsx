@@ -29,6 +29,9 @@ export default function About() {
         constamment à l’affût des technologies émergentes et des outils
         innovants.
         <br />
+
+        Passionnée de l'informatique, j'ai acquis mes connaissances en ligne, en tant qu'autodidacte. 
+        
         <br />
         {/* <span className="font-medium">full-stack web development</span>.{" "} */}
         Ma polyvalence me permet de m'adapter à plusieurs domaines, notamment la

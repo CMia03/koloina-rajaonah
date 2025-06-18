@@ -93,6 +93,13 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "2024 - Avril 2025",
   },
+   {
+    title: "Developpeur front-end",
+    location: "Freelance",
+    description: "Developpeur front-end pour Releaf.fr",
+    icon: React.createElement(FaReact),
+    date: "2024 - présent",
+  },
 ] as const;
 
 export const projectsData = [
@@ -116,6 +123,13 @@ export const projectsData = [
     tags: [""],
     imageUrl: fapbm,
   },
+   {
+    title: "Releaf- fr",
+    description:
+      "J'étais dans la coordination avec l'équipe de développement de l'application front-end",
+    tags: [""],
+    imageUrl: fapbm,
+  },
 ] as const;
 
 export const skillsData = [
@@ -128,4 +142,11 @@ export const skillsData = [
   "ChatGPT",
   "Trello",
   "Windows",
+  "html/css/js",
+  "React",
+  "shopify",
+  "wordpress",
+  "Pennylane",
+  "Canva",
+  "Figma",
 ] as const;
